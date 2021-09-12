@@ -1,4 +1,6 @@
-# plotlydiploy
+# PlotlyDiploy
+
+https://alexrahmanov.github.io/plotlydiploy/
 
 # Resources
 * Data Source: index.html, samples.json, charts.js
